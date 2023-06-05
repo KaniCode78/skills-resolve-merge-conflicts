@@ -2,9 +2,6 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-Probando 123456789
-
-## Job History
 
 ### GitHub Trainer
 
